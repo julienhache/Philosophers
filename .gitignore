@@ -1,0 +1,10 @@
+# Visual Code gitignore:
+.vscode
+
+# Executables
+*.out
+/philo_*
+
+# Other generated files
+*.d
+.bin
